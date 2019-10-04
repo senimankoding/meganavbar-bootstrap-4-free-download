@@ -1,0 +1,21 @@
+@media only screen and (max-width: 479.98px) {
+    .mobile-menu {
+      margin-top: 15px; 
+    } 
+}
+
+@media only screen and (max-width: 479.98px) {
+    .offcanvas-widget-area {
+      padding-bottom: 0; 
+  	} 
+}
+@media only screen and (max-width: 479.98px) {
+    .off-canvas-wrapper .off-canvas-inner-content {
+        width: 260px;
+        padding: 15px; } 
+}
+@media (max-width: 767px) {
+	.header-img {
+		display: none;
+	}
+}
